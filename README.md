@@ -44,8 +44,8 @@ This project implements a user authentication module using **NestJS** and **Mong
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/AhmadSamDevelopment/auth-backend.git
+   cd auth-backend
    ```
 
 2. Install dependencies:
@@ -132,11 +132,3 @@ While this is a personal assignment, contributions are welcome! Please feel free
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ```
-
-### Final Tips
-
-- Tailor the README to reflect any specific features or implementations you've done that may not be covered here.
-- Check for clarity, ensuring that someone new to your project can easily understand how to set it up and use it.
-- Keep the tone professional and concise, as this reflects your communication skills, which are crucial for a full-stack role.
-
-This README should give a comprehensive overview of your backend project, making it suitable for your assignment. Good luck!
